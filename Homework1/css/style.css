@@ -1,0 +1,36 @@
+body {
+    font-family: Calibri, Georgia, Cambria;
+    font-size: 90%;
+}
+
+header {
+    background-color: #EFDD8D;
+}
+
+nav {
+    background-color: #EFDD8D;
+}
+
+main {
+    background-color: #EFDD8D;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #EFDD8D;
+}
+
+li {
+    display: inline-block;
+    width: 20%;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #65743A;
+}
+
+p {
+    line-height: 120%;
+}
